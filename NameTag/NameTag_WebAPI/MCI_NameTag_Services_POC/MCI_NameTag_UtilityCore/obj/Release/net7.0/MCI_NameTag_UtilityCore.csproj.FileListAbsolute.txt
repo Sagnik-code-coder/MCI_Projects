@@ -1,0 +1,23 @@
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\bin\Release\net7.0\MCI_NameTag_UtilityCore.deps.json
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\bin\Release\net7.0\MCI_NameTag_UtilityCore.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\bin\Release\net7.0\MCI_NameTag_UtilityCore.pdb
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\MCI_NameTag_UtilityCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\MCI_NameTag_UtilityCore.AssemblyInfoInputs.cache
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\MCI_NameTag_UtilityCore.AssemblyInfo.cs
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\MCI_NameTag_UtilityCore.csproj.CoreCompileInputs.cache
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\MCI_NameTag_UtilityCore.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\refint\MCI_NameTag_UtilityCore.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\MCI_NameTag_UtilityCore.pdb
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\ref\MCI_NameTag_UtilityCore.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\bin\Release\net7.0\MCI_NameTag_UtilityCore.deps.json
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\bin\Release\net7.0\MCI_NameTag_UtilityCore.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\bin\Release\net7.0\MCI_NameTag_UtilityCore.pdb
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\MCI_NameTag_UtilityCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\MCI_NameTag_UtilityCore.AssemblyInfoInputs.cache
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\MCI_NameTag_UtilityCore.AssemblyInfo.cs
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\MCI_NameTag_UtilityCore.csproj.CoreCompileInputs.cache
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\MCI_NameTag_UtilityCore.sourcelink.json
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\MCI_NameTag_UtilityCore.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\refint\MCI_NameTag_UtilityCore.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\MCI_NameTag_UtilityCore.pdb
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_UtilityCore\obj\Release\net7.0\ref\MCI_NameTag_UtilityCore.dll

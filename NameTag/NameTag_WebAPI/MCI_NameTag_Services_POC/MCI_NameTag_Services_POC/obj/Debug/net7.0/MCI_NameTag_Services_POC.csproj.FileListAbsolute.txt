@@ -1,0 +1,191 @@
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\appsettings.Development.json
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\appsettings.json
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_Services_POC.exe
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_Services_POC.deps.json
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_Services_POC.runtimeconfig.json
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_Services_POC.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_Services_POC.pdb
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Azure.Core.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Azure.Identity.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Humanizer.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.CodeDom.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Memory.Data.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_ModelCore.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_ModelCore.pdb
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.csproj.AssemblyReference.cache
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.AssemblyInfoInputs.cache
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.AssemblyInfo.cs
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.csproj.CoreCompileInputs.cache
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.MvcApplicationPartsAssemblyInfo.cs
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.MvcApplicationPartsAssemblyInfo.cache
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets\msbuild.MCI_NameTag_Services_POC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets\msbuild.build.MCI_NameTag_Services_POC.props
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MCI_NameTag_Services_POC.props
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MCI_NameTag_Services_POC.props
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets.build.json
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets.development.json
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\scopedcss\bundle\MCI_NameTag_Services_POC.styles.css
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.csproj.CopyComplete
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\refint\MCI_NameTag_Services_POC.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.pdb
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.genruntimeconfig.cache
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\ref\MCI_NameTag_Services_POC.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_UtilityCore.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_UtilityCore.pdb
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Office.Client.Policy.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Office.Client.TranslationServices.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Office.SharePoint.Tools.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.ProjectServer.Client.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.Publishing.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.Runtime.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.Search.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\.net Core proj\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\appsettings.Development.json
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\appsettings.json
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_Services_POC.exe
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_Services_POC.deps.json
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_Services_POC.runtimeconfig.json
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_Services_POC.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_Services_POC.pdb
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Azure.Core.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Azure.Identity.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Humanizer.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Office.Client.Policy.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Office.Client.TranslationServices.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Office.SharePoint.Tools.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.ProjectServer.Client.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.Publishing.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.Runtime.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.Search.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SharePoint.Client.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.CodeDom.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_ModelCore.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_UtilityCore.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_ModelCore.pdb
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\bin\Debug\net7.0\MCI_NameTag_UtilityCore.pdb
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.csproj.AssemblyReference.cache
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.AssemblyInfoInputs.cache
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.AssemblyInfo.cs
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.csproj.CoreCompileInputs.cache
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.sourcelink.json
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets\msbuild.MCI_NameTag_Services_POC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets\msbuild.build.MCI_NameTag_Services_POC.props
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MCI_NameTag_Services_POC.props
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MCI_NameTag_Services_POC.props
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\scopedcss\bundle\MCI_NameTag_Services_POC.styles.css
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_Name.3D38CEB5.Up2Date
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\refint\MCI_NameTag_Services_POC.dll
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.pdb
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\MCI_NameTag_Services_POC.genruntimeconfig.cache
+C:\Project\NameTag\NameTag_WebAPI\MCI_NameTag_Services_POC\MCI_NameTag_Services_POC\obj\Debug\net7.0\ref\MCI_NameTag_Services_POC.dll

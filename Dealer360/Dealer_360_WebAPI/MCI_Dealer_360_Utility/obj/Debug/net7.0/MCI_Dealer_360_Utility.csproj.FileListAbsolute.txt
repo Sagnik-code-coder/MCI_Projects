@@ -1,0 +1,12 @@
+C:\Project\Dealer360\Dealer_360_WebAPI\MCI_Dealer_360_Utility\bin\Debug\net7.0\MCI_Dealer_360_Utility.deps.json
+C:\Project\Dealer360\Dealer_360_WebAPI\MCI_Dealer_360_Utility\bin\Debug\net7.0\MCI_Dealer_360_Utility.dll
+C:\Project\Dealer360\Dealer_360_WebAPI\MCI_Dealer_360_Utility\bin\Debug\net7.0\MCI_Dealer_360_Utility.pdb
+C:\Project\Dealer360\Dealer_360_WebAPI\MCI_Dealer_360_Utility\obj\Debug\net7.0\MCI_Dealer_360_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Dealer360\Dealer_360_WebAPI\MCI_Dealer_360_Utility\obj\Debug\net7.0\MCI_Dealer_360_Utility.AssemblyInfoInputs.cache
+C:\Project\Dealer360\Dealer_360_WebAPI\MCI_Dealer_360_Utility\obj\Debug\net7.0\MCI_Dealer_360_Utility.AssemblyInfo.cs
+C:\Project\Dealer360\Dealer_360_WebAPI\MCI_Dealer_360_Utility\obj\Debug\net7.0\MCI_Dealer_360_Utility.csproj.CoreCompileInputs.cache
+C:\Project\Dealer360\Dealer_360_WebAPI\MCI_Dealer_360_Utility\obj\Debug\net7.0\MCI_Dealer_360_Utility.sourcelink.json
+C:\Project\Dealer360\Dealer_360_WebAPI\MCI_Dealer_360_Utility\obj\Debug\net7.0\MCI_Dealer_360_Utility.dll
+C:\Project\Dealer360\Dealer_360_WebAPI\MCI_Dealer_360_Utility\obj\Debug\net7.0\refint\MCI_Dealer_360_Utility.dll
+C:\Project\Dealer360\Dealer_360_WebAPI\MCI_Dealer_360_Utility\obj\Debug\net7.0\MCI_Dealer_360_Utility.pdb
+C:\Project\Dealer360\Dealer_360_WebAPI\MCI_Dealer_360_Utility\obj\Debug\net7.0\ref\MCI_Dealer_360_Utility.dll

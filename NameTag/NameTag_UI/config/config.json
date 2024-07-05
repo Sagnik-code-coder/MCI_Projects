@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "create-order-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/createOrder/CreateOrderWebPart.js",
+          "manifest": "./src/webparts/createOrder/CreateOrderWebPart.manifest.json"
+        }
+      ]
+    },
+    "dashboard-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/dashboard/DashboardWebPart.js",
+          "manifest": "./src/webparts/dashboard/DashboardWebPart.manifest.json"
+        }
+      ]
+    },
+    "processed-order-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/processedOrder/ProcessedOrderWebPart.js",
+          "manifest": "./src/webparts/processedOrder/ProcessedOrderWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {
+    "moment": "https://mazdausa.sharepoint.com/sites/TestingSP/SiteAssets/NameTag/js/moment.min.js"
+  },
+  "localizedResources": {
+    "CreateOrderWebPartStrings": "lib/webparts/createOrder/loc/{locale}.js",
+    "DashboardWebPartStrings": "lib/webparts/dashboard/loc/{locale}.js",
+    "ProcessedOrderWebPartStrings": "lib/webparts/processedOrder/loc/{locale}.js"
+  }
+}

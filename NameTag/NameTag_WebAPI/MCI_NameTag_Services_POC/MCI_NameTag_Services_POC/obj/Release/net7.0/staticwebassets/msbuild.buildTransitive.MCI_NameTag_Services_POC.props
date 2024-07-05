@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MCI_NameTag_Services_POC.props" />
+</Project>

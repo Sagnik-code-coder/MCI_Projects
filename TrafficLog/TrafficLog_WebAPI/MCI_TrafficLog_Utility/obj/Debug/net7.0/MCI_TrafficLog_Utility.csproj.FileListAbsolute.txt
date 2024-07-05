@@ -1,0 +1,46 @@
+D:\.net Core proj\TrafficLog\Proj\TrafficLog_Services\MCI_TrafficLog_Utility\bin\Debug\net7.0\MCI_TrafficLog_Utility.deps.json
+D:\.net Core proj\TrafficLog\Proj\TrafficLog_Services\MCI_TrafficLog_Utility\bin\Debug\net7.0\MCI_TrafficLog_Utility.dll
+D:\.net Core proj\TrafficLog\Proj\TrafficLog_Services\MCI_TrafficLog_Utility\bin\Debug\net7.0\MCI_TrafficLog_Utility.pdb
+D:\.net Core proj\TrafficLog\Proj\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Core proj\TrafficLog\Proj\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.AssemblyInfoInputs.cache
+D:\.net Core proj\TrafficLog\Proj\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.AssemblyInfo.cs
+D:\.net Core proj\TrafficLog\Proj\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.csproj.CoreCompileInputs.cache
+D:\.net Core proj\TrafficLog\Proj\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.dll
+D:\.net Core proj\TrafficLog\Proj\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\refint\MCI_TrafficLog_Utility.dll
+D:\.net Core proj\TrafficLog\Proj\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.pdb
+D:\.net Core proj\TrafficLog\Proj\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\ref\MCI_TrafficLog_Utility.dll
+D:\TrafficLog\TrafficLog_Services\TrafficLog_Services\MCI_TrafficLog_Utility\bin\Debug\net7.0\MCI_TrafficLog_Utility.deps.json
+D:\TrafficLog\TrafficLog_Services\TrafficLog_Services\MCI_TrafficLog_Utility\bin\Debug\net7.0\MCI_TrafficLog_Utility.dll
+D:\TrafficLog\TrafficLog_Services\TrafficLog_Services\MCI_TrafficLog_Utility\bin\Debug\net7.0\MCI_TrafficLog_Utility.pdb
+D:\TrafficLog\TrafficLog_Services\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrafficLog\TrafficLog_Services\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.AssemblyInfoInputs.cache
+D:\TrafficLog\TrafficLog_Services\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.AssemblyInfo.cs
+D:\TrafficLog\TrafficLog_Services\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.csproj.CoreCompileInputs.cache
+D:\TrafficLog\TrafficLog_Services\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.dll
+D:\TrafficLog\TrafficLog_Services\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\refint\MCI_TrafficLog_Utility.dll
+D:\TrafficLog\TrafficLog_Services\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.pdb
+D:\TrafficLog\TrafficLog_Services\TrafficLog_Services\MCI_TrafficLog_Utility\obj\Debug\net7.0\ref\MCI_TrafficLog_Utility.dll
+C:\Project\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\bin\Debug\net7.0\MCI_TrafficLog_Utility.deps.json
+C:\Project\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\bin\Debug\net7.0\MCI_TrafficLog_Utility.dll
+C:\Project\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\bin\Debug\net7.0\MCI_TrafficLog_Utility.pdb
+C:\Project\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.AssemblyInfoInputs.cache
+C:\Project\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.AssemblyInfo.cs
+C:\Project\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.csproj.CoreCompileInputs.cache
+C:\Project\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.sourcelink.json
+C:\Project\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.dll
+C:\Project\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\refint\MCI_TrafficLog_Utility.dll
+C:\Project\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.pdb
+C:\Project\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\ref\MCI_TrafficLog_Utility.dll
+C:\Projects\MCI\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\bin\Debug\net7.0\MCI_TrafficLog_Utility.deps.json
+C:\Projects\MCI\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\bin\Debug\net7.0\MCI_TrafficLog_Utility.dll
+C:\Projects\MCI\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\bin\Debug\net7.0\MCI_TrafficLog_Utility.pdb
+C:\Projects\MCI\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MCI\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.AssemblyInfoInputs.cache
+C:\Projects\MCI\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.AssemblyInfo.cs
+C:\Projects\MCI\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.csproj.CoreCompileInputs.cache
+C:\Projects\MCI\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.sourcelink.json
+C:\Projects\MCI\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.dll
+C:\Projects\MCI\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\refint\MCI_TrafficLog_Utility.dll
+C:\Projects\MCI\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\MCI_TrafficLog_Utility.pdb
+C:\Projects\MCI\TrafficLog\TrafficLog_WebAPI\MCI_TrafficLog_Utility\obj\Debug\net7.0\ref\MCI_TrafficLog_Utility.dll

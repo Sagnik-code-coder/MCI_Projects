@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="f5507971-48d9-4bd6-92f1-932a396bd992" 
+        solutionId="f5507971-48d9-4bd6-92f1-932a396bd992" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="NameTagWebJob"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="f2e4667c-97e0-4470-9aac-d1325b1cf99c" />
+  </features>
+</package>

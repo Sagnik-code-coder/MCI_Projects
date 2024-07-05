@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ByX8OsYds5PFfxnzEsdW+RHpHqWzrmJWWDsdzTDiYUg=",
+  "Source": "TrafficLog_Services",
+  "BasePath": "_content/TrafficLog_Services",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": false,
+    "nodeVersion": "16.13.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "dealer-360",
+    "libraryId": "ac6ba6bd-5fed-4d32-bfba-4db3b939d18d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Dealer360",
+    "solutionShortDescription": "Dealer360 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

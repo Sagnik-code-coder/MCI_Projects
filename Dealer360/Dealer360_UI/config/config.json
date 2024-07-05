@@ -1,0 +1,36 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "admin-week-scheduler-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/adminWeekScheduler/AdminWeekSchedulerWebPart.js",
+          "manifest": "./src/webparts/adminWeekScheduler/AdminWeekSchedulerWebPart.manifest.json"
+        }
+      ]
+    },
+    "facility-standard-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/facilityStandard/FacilityStandardWebPart.js",
+          "manifest": "./src/webparts/facilityStandard/FacilityStandardWebPart.manifest.json"
+        }
+      ]
+    },
+    "staffing-standard-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/staffingStandard/StaffingStandardWebPart.js",
+          "manifest": "./src/webparts/staffingStandard/StaffingStandardWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "AdminWeekSchedulerWebPartStrings": "lib/webparts/adminWeekScheduler/loc/{locale}.js",
+    "FacilityStandardWebPartStrings": "lib/webparts/facilityStandard/loc/{locale}.js",
+    "StaffingStandardWebPartStrings": "lib/webparts/staffingStandard/loc/{locale}.js"
+  }
+}

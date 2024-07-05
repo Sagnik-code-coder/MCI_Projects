@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": false,
+    "nodeVersion": "16.13.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "poc-name-tag",
+    "libraryId": "32b93855-1d00-425b-95f3-87cbcb877f21",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "POCNameTag",
+    "solutionShortDescription": "POCNameTag description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

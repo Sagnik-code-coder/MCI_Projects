@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pocNameTagSolution",
+    "id": "32b93855-1d00-425b-95f3-87cbcb877f21",
+    "version": "1.0.1.7",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "POCNameTag description"
+      },
+      "longDescription": {
+        "default": "POCNameTag description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "poc-name-tag Feature",
+        "description": "The feature that activates elements of the poc-name-tag solution.",
+        "id": "0469478c-11ef-48cd-9cc7-8b7abddb043a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/poc-name-tag.sppkg"
+  }
+}

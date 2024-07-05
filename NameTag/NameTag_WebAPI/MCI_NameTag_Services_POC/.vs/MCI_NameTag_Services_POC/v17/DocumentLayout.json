@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2186AA-D717-41B3-8543-FD7A92B65CFC}|MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC.csproj|c:\\projects\\mci\\nametag\\nametag_webapi\\mci_nametag_services_poc\\mci_nametag_services_poc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C2186AA-D717-41B3-8543-FD7A92B65CFC}|MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC.csproj|solutionrelative:mci_nametag_services_poc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2186AA-D717-41B3-8543-FD7A92B65CFC}|MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC.csproj|c:\\projects\\mci\\nametag\\nametag_webapi\\mci_nametag_services_poc\\mci_nametag_services_poc\\controllers\\nametagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2186AA-D717-41B3-8543-FD7A92B65CFC}|MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC.csproj|solutionrelative:mci_nametag_services_poc\\controllers\\nametagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2186AA-D717-41B3-8543-FD7A92B65CFC}|MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC.csproj|c:\\projects\\mci\\nametag\\nametag_webapi\\mci_nametag_services_poc\\mci_nametag_services_poc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2186AA-D717-41B3-8543-FD7A92B65CFC}|MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC.csproj|solutionrelative:mci_nametag_services_poc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2186AA-D717-41B3-8543-FD7A92B65CFC}|MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC.csproj|c:\\projects\\mci\\nametag\\nametag_webapi\\mci_nametag_services_poc\\mci_nametag_services_poc\\models\\implementation\\nametagdbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2186AA-D717-41B3-8543-FD7A92B65CFC}|MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC.csproj|solutionrelative:mci_nametag_services_poc\\models\\implementation\\nametagdbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA9E9DD-67C1-4035-AE32-E832846AF2E6}|MCI_NameTag_UtilityCore\\MCI_NameTag_UtilityCore.csproj|c:\\projects\\mci\\nametag\\nametag_webapi\\mci_nametag_services_poc\\mci_nametag_utilitycore\\mcinametaglogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA9E9DD-67C1-4035-AE32-E832846AF2E6}|MCI_NameTag_UtilityCore\\MCI_NameTag_UtilityCore.csproj|solutionrelative:mci_nametag_utilitycore\\mcinametaglogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2186AA-D717-41B3-8543-FD7A92B65CFC}|MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC.csproj|c:\\projects\\mci\\nametag\\nametag_webapi\\mci_nametag_services_poc\\mci_nametag_services_poc\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2186AA-D717-41B3-8543-FD7A92B65CFC}|MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC.csproj|solutionrelative:mci_nametag_services_poc\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA9E9DD-67C1-4035-AE32-E832846AF2E6}|MCI_NameTag_UtilityCore\\MCI_NameTag_UtilityCore.csproj|c:\\projects\\mci\\nametag\\nametag_webapi\\mci_nametag_services_poc\\mci_nametag_utilitycore\\mcinametaglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA9E9DD-67C1-4035-AE32-E832846AF2E6}|MCI_NameTag_UtilityCore\\MCI_NameTag_UtilityCore.csproj|solutionrelative:mci_nametag_utilitycore\\mcinametaglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07EE783-31C1-47B1-B0E4-8C9945AD7FE1}|MCI_NameTag_ModelCore\\MCI_NameTag_ModelCore.csproj|c:\\projects\\mci\\nametag\\nametag_webapi\\mci_nametag_services_poc\\mci_nametag_modelcore\\nametagorderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07EE783-31C1-47B1-B0E4-8C9945AD7FE1}|MCI_NameTag_ModelCore\\MCI_NameTag_ModelCore.csproj|solutionrelative:mci_nametag_modelcore\\nametagorderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07EE783-31C1-47B1-B0E4-8C9945AD7FE1}|MCI_NameTag_ModelCore\\MCI_NameTag_ModelCore.csproj|c:\\projects\\mci\\nametag\\nametag_webapi\\mci_nametag_services_poc\\mci_nametag_modelcore\\nametagdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07EE783-31C1-47B1-B0E4-8C9945AD7FE1}|MCI_NameTag_ModelCore\\MCI_NameTag_ModelCore.csproj|solutionrelative:mci_nametag_modelcore\\nametagdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2186AA-D717-41B3-8543-FD7A92B65CFC}|MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC.csproj|c:\\projects\\mci\\nametag\\nametag_webapi\\mci_nametag_services_poc\\mci_nametag_services_poc\\models\\viewmodels\\updatenametagorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2186AA-D717-41B3-8543-FD7A92B65CFC}|MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC.csproj|solutionrelative:mci_nametag_services_poc\\models\\viewmodels\\updatenametagorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 333,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC\\appsettings.json",
+              "RelativeDocumentMoniker": "MCI_NameTag_Services_POC\\appsettings.json",
+              "ToolTip": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC\\appsettings.json",
+              "RelativeToolTip": "MCI_NameTag_Services_POC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T10:12:43.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MCINameTagLogging.cs",
+              "DocumentMoniker": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_UtilityCore\\MCINameTagLogging.cs",
+              "RelativeDocumentMoniker": "MCI_NameTag_UtilityCore\\MCINameTagLogging.cs",
+              "ToolTip": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_UtilityCore\\MCINameTagLogging.cs",
+              "RelativeToolTip": "MCI_NameTag_UtilityCore\\MCINameTagLogging.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:31:51.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NameTagController.cs",
+              "DocumentMoniker": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC\\Controllers\\NameTagController.cs",
+              "RelativeDocumentMoniker": "MCI_NameTag_Services_POC\\Controllers\\NameTagController.cs",
+              "ToolTip": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC\\Controllers\\NameTagController.cs",
+              "RelativeToolTip": "MCI_NameTag_Services_POC\\Controllers\\NameTagController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMgCAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:31:51.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NameTagOrderHistory.cs",
+              "DocumentMoniker": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_ModelCore\\NameTagOrderHistory.cs",
+              "RelativeDocumentMoniker": "MCI_NameTag_ModelCore\\NameTagOrderHistory.cs",
+              "ToolTip": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_ModelCore\\NameTagOrderHistory.cs",
+              "RelativeToolTip": "MCI_NameTag_ModelCore\\NameTagOrderHistory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:31:51.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NameTagDBServices.cs",
+              "DocumentMoniker": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC\\Models\\Implementation\\NameTagDBServices.cs",
+              "RelativeDocumentMoniker": "MCI_NameTag_Services_POC\\Models\\Implementation\\NameTagDBServices.cs",
+              "ToolTip": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC\\Models\\Implementation\\NameTagDBServices.cs",
+              "RelativeToolTip": "MCI_NameTag_Services_POC\\Models\\Implementation\\NameTagDBServices.cs",
+              "ViewState": "AQIAAF8BAAAAAAAAAAAIwG4BAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:31:51.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC\\Program.cs",
+              "RelativeDocumentMoniker": "MCI_NameTag_Services_POC\\Program.cs",
+              "ToolTip": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC\\Program.cs",
+              "RelativeToolTip": "MCI_NameTag_Services_POC\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:31:51.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MCINameTagLogger.cs",
+              "DocumentMoniker": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_UtilityCore\\MCINameTagLogger.cs",
+              "RelativeDocumentMoniker": "MCI_NameTag_UtilityCore\\MCINameTagLogger.cs",
+              "ToolTip": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_UtilityCore\\MCINameTagLogger.cs",
+              "RelativeToolTip": "MCI_NameTag_UtilityCore\\MCINameTagLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:31:51.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MCI_NameTag_Services_POC\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MCI_NameTag_Services_POC\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwBsAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:31:51.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NameTagDetailsModel.cs",
+              "DocumentMoniker": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_ModelCore\\NameTagDetailsModel.cs",
+              "RelativeDocumentMoniker": "MCI_NameTag_ModelCore\\NameTagDetailsModel.cs",
+              "ToolTip": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_ModelCore\\NameTagDetailsModel.cs",
+              "RelativeToolTip": "MCI_NameTag_ModelCore\\NameTagDetailsModel.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAMYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:31:51.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateNameTagOrder.cs",
+              "DocumentMoniker": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC\\Models\\ViewModels\\UpdateNameTagOrder.cs",
+              "RelativeDocumentMoniker": "MCI_NameTag_Services_POC\\Models\\ViewModels\\UpdateNameTagOrder.cs",
+              "ToolTip": "C:\\Projects\\MCI\\NameTag\\NameTag_WebAPI\\MCI_NameTag_Services_POC\\MCI_NameTag_Services_POC\\Models\\ViewModels\\UpdateNameTagOrder.cs",
+              "RelativeToolTip": "MCI_NameTag_Services_POC\\Models\\ViewModels\\UpdateNameTagOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:31:51.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

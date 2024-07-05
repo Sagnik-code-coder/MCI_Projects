@@ -1,0 +1,5 @@
+D:\.net Core proj\NameTag TimerJob\NameTag_WebJob\NameTagWebJob\bin\Debug\NameTagWebJob.pdb
+D:\.net Core proj\NameTag TimerJob\NameTag_WebJob\NameTagWebJob\obj\Debug\NameTagWebJob.csproj.AssemblyReference.cache
+D:\.net Core proj\NameTag TimerJob\NameTag_WebJob\NameTagWebJob\obj\Debug\NameTagWebJob.csproj.CoreCompileInputs.cache
+D:\.net Core proj\NameTag TimerJob\NameTag_WebJob\NameTagWebJob\obj\Debug\NameTagWebJob.dll
+D:\.net Core proj\NameTag TimerJob\NameTag_WebJob\NameTagWebJob\obj\Debug\NameTagWebJob.pdb

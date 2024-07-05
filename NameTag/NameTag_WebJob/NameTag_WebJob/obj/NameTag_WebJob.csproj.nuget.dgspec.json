@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\.net Core proj\\NameTag TimerJob\\NameTag_WebJob\\NameTag_WebJob\\NameTag_WebJob.csproj": {}
+  },
+  "projects": {
+    "D:\\.net Core proj\\NameTag TimerJob\\NameTag_WebJob\\MCI_NameTag_Utility\\MCI_NameTag_Utility.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\.net Core proj\\NameTag TimerJob\\NameTag_WebJob\\MCI_NameTag_Utility\\MCI_NameTag_Utility.csproj",
+        "projectName": "MCI_NameTag_Utility",
+        "projectPath": "D:\\.net Core proj\\NameTag TimerJob\\NameTag_WebJob\\MCI_NameTag_Utility\\MCI_NameTag_Utility.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\.net Core proj\\NameTag TimerJob\\NameTag_WebJob\\NameTag_WebJob\\NameTag_WebJob.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.net Core proj\\NameTag TimerJob\\NameTag_WebJob\\NameTag_WebJob\\NameTag_WebJob.csproj",
+        "projectName": "NameTag_WebJob",
+        "projectPath": "D:\\.net Core proj\\NameTag TimerJob\\NameTag_WebJob\\NameTag_WebJob\\NameTag_WebJob.csproj",
+        "packagesPath": "C:\\Users\\AvijitRouth\\.nuget\\packages\\",
+        "outputPath": "D:\\.net Core proj\\NameTag TimerJob\\NameTag_WebJob\\NameTag_WebJob\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AvijitRouth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "D:\\.net Core proj\\NameTag TimerJob\\NameTag_WebJob\\MCI_NameTag_Utility\\MCI_NameTag_Utility.csproj": {
+                "projectPath": "D:\\.net Core proj\\NameTag TimerJob\\NameTag_WebJob\\MCI_NameTag_Utility\\MCI_NameTag_Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.Azure.KeyVault.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.Azure.WebJobs": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Microsoft.Azure.WebJobs.Core": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Microsoft.Data.Edm": {
+              "target": "Package",
+              "version": "[5.8.4, )"
+            },
+            "Microsoft.Data.OData": {
+              "target": "Package",
+              "version": "[5.8.4, )"
+            },
+            "Microsoft.Data.Services.Client": {
+              "target": "Package",
+              "version": "[5.8.4, )"
+            },
+            "Microsoft.IdentityModel": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.SharePointOnline.CSOM": {
+              "target": "Package",
+              "version": "[16.1.24713.12007, )"
+            },
+            "Microsoft.WindowsAzure.ConfigurationManager": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "PnP.Framework": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "System.Spatial": {
+              "target": "Package",
+              "version": "[5.8.4, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

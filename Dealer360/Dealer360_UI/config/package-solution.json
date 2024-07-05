@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dealer360SpfxSolution",
+    "id": "ac6ba6bd-5fed-4d32-bfba-4db3b939d18d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Dealer360 description"
+      },
+      "longDescription": {
+        "default": "Dealer360 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "dealer-360 Feature",
+        "description": "The feature that activates elements of the dealer-360 solution.",
+        "id": "1cd58408-fba1-4c63-9c74-a0839d665d09",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/dealer-360.sppkg"
+  }
+}
